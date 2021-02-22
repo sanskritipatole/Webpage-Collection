@@ -1,0 +1,41 @@
+#row1{
+  background-color:     #d8fcfa      ;
+  height: 90px;
+
+}
+
+#row2{
+  background-color:      #2c3d3b       ;
+  height: 30px;
+}
+
+#row3{
+  height: 200px;
+}
+
+#con1{
+  background-color:    #f8eefc   ;
+  height: 500px;
+}
+
+#row4{
+  height: 100px;
+  background-color:    #d8fcfa      ;
+}
+
+#col2{
+  background-color:  #c6e1e0 ;
+}
+
+#title{
+  text-align: center;
+}
+#li1{
+  background-color:  #afdedb ;
+}
+#image{
+    background-color:   #0afcc8  ;
+}
+#wel{
+  text-align: center;
+}
